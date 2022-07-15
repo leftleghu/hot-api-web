@@ -1,0 +1,124 @@
+{
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/vite/modulepreload-polyfill": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/vite/preload-helper": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@dcloudio/uni-shared/dist/uni-shared.es.js": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@dcloudio/uni-h5-vue/dist/vue.runtime.esm.js": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@dcloudio/uni-i18n/dist/uni-i18n.es.js": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/vue-router/dist/vue-router.esm-bundler.js": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@dcloudio/uni-h5/dist/uni-h5.es.js": [],
+  "manifest-json-js": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@dcloudio/uni-h5/style/framework/base.css": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@dcloudio/uni-h5/style/framework/shadow.css": [],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@dcloudio/uni-h5/style/framework/async.css": [],
+  "pages-json-js": [],
+  "App.vue?vue&type=style&index=0&lang.scss": [],
+  "App.vue": [],
+  "main.js": [],
+  "index.html": [],
+  "uni_modules/uni-title/components/uni-title/uni-title.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/plugin-vue:export-helper": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-title/components/uni-title/uni-title.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "../../../../../Applications/HBuilderX.app/Contents/HBuilderX/plugins/uniapp-cli-vite/node_modules/@dcloudio/uni-app/dist/uni-app.es.js": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-row/components/uni-col/uni-col.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-row/components/uni-col/uni-col.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-row/components/uni-row/uni-row.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-row/components/uni-row/uni-row.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-icons/components/uni-icons/icons.js": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-icons/components/uni-icons/uni-icons.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-icons/components/uni-icons/uni-icons.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-badge/components/uni-badge/uni-badge.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-badge/components/uni-badge/uni-badge.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-list/components/uni-list-item/uni-list-item.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-list/components/uni-list-item/uni-list-item.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-list/components/uni-list/uni-list.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-list/components/uni-list/uni-list.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-card/components/uni-card/uni-card.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "uni_modules/uni-card/components/uni-card/uni-card.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "pages/index/index.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ],
+  "pages/index/index.vue": [
+    "/assets/pages-index-index.2ce25d62.js",
+    "/assets/index.00e8bc50.css",
+    "/assets/uniicons.89ed7d6d.ttf"
+  ]
+}
